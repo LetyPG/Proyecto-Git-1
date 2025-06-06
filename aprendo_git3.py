@@ -1,6 +1,4 @@
 print ("Ampliando mi Proyecto")
 print ("Ampliando mi Proyecto 2")
 print ("Ampliando mi Proyecto 3")
-print ("Ampliando mi Proyecto 4")
-print ("Ampliando mi Proyecto 5")
-print ("Ampliando mi Proyecto 6")
+print ("Esta linea cambia pero solo 2 fueron quitadas")
